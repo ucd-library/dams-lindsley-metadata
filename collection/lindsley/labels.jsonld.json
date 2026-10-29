@@ -1,0 +1,30 @@
+[
+  {
+    "@id": "http://id.worldcat.org/fast/960099",
+    "http://schema.org/name": "Hopi Indians"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423873",
+    "http://schema.org/name": "Illustrated works"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1034799",
+    "http://schema.org/name": "Navajo Indians"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/969633",
+    "http://schema.org/name": "Indians of North America"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204269",
+    "http://schema.org/name": "New Mexico"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204820",
+    "http://schema.org/name": "Arizona"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1210336",
+    "http://schema.org/name": "Texas"
+  }
+]

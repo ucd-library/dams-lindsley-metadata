@@ -38,9 +38,9 @@
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1925"
+    "@value": "2026"
   },
-  "schema:description": "Photograph album documenting a trip to Arizona from Kansas, with extensive images of local Native Americans.",
+  "schema:description": "Photograph album assembled by Robert Lindsley of Wichita, Kansas, documenting a road trip taken across the Southwest to the Grand Canyon and the Painted Desert in Arizona. A note in the back indicates he left Wichita on July 19, 1925 and returned September 5th, having traveled 3,685 miles. The first two leaves contain images of stops made in Texas and New Mexico, while the remainder of the album is comprised of images of Arizona and New Mexico. These begin with the Cochise Mining Camp and the Keystone Mine. There follow images of Tucson, the Arizona State Prison at Florence, the Roosevelt Dam, Flagstaff, and scenes of camping in the countryside en route to the Grand Canyon. After a series of photographs in and around the Canyon, the party moved to Tuba City, in Navajo country, and the next few leaves contain images of Navajo and Hopi Indians and their dwellings and environs. Two striking images show a Native American woman seated on the ground outside a house with three small children, a drop spindle at her side and a coffee cup by her knee. In the second of these she looks piercingly into the camera, perhaps having just noticed the photographer. Another is labeled as \"Navajo Chief Seginetso,\" which shows a tall man holding a large animal hide standing next to another man and a small child; a second child stands in the immediate foreground staring up at the photographer. Several images show the Hopi Snake Dance and other pueblo festivities. The final portion of the album contains a series photographs of the 1925 Inter-Tribal Indian Ceremony in Gallup, New Mexico, which depict the town, a parade, bison, a host of Native Americans in elaborate feathered head dresses, numerous wagons and floats, a foot race, and a man riding a bucking buffalo. The final few leaves are images from Albuquerque, Laguna Indian Village, and Taos.\n\n \[Description provided by McBride Rare Books\].",
   "schema:inLanguage": "en",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
@@ -49,14 +49,14 @@
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
   },
   "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:Publisher": "UC Davis Library, Archives and Special Collections",
   "schema:isBasedOn": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8nk3n8v"
   },
-  "schema:name": "Robert Lindsley Photograph Album",
-  "schema:creator": "Lindsley, Robert",
+  "schema:name": "Lindsley (Robert) Photograph Album",
   "schema:identifier": [
     "ark:/87293/d3cv4c30w",
-    "MC301"
+    "MC-301"
   ],
   "schema:image": {
     "@id": "@base:/thumbnail.jpg"

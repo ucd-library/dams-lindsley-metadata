@@ -41,7 +41,6 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1925"
   },
-  "schema:description": "Photograph album documenting a trip to Arizona from Kansas, with extensive images of local Native Americans.",
   "schema:inLanguage": "en",
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC/1.0/"
@@ -57,7 +56,7 @@
   "schema:creator": "Lindsley, Robert",
   "schema:identifier": [
     "ark:/87293/d3833n87x",
-    "MC301"
+    "MC-301"
   ],
   "schema:image": {
     "@id": "@base:/media/images/MC-301_0001.tif"

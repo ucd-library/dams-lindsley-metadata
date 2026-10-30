@@ -14,7 +14,7 @@
     "schema:MediaObject",
     "schema:CreativeWork"
   ],
-  "schema:alternativeHeadline": "Black cloth, cord-bound album cover with Photographs stamped in gold.",
+  "schema:alternativeHeadline": "Black cloth, cord-bound album cover with Photographs stamped in gold.\n\nWritten text (transcribed as written):\nGold lettering on front cover: “Photographs”",
   "ebucore:filename": "thumbnail.jpg",
   "ebucore:hasMimeType": "image/jpeg"
 }
